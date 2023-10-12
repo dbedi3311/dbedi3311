@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 My name is Divjot Bedi and I am a 4th year undergraduate at Columbia University majoring in Computer Science and Math-Statistics. 
+🔭 Working on Julia/Dagger + Julia/Mempool, [Golang Leaderboard API](https://github.com/dbedi3311/leaderboard-api)
 <!--
 **dbedi3311/dbedi3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
